@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/BrNtIejIcXUAAAAC/pixel-art.gif" width="800">
+<img src="https://media1.tenor.com/m/BrNtIejIcXUAAAAC/pixel-art.gif" width="500">
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Shashank Reddy</h1>
