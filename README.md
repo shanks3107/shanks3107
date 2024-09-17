@@ -1,4 +1,4 @@
-<img src="https://44.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s640x960_f1/a5e53e8a40f4c508cfdb19939d6a4f48f044649b.gif" width="900" >
+<img src="hello.gif" width="900" height="350" >
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Shashank Reddy</h1>
