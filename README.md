@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" width="900" height="300">
+<img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" width="900" height="250">
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Shashank Reddy</h1>
